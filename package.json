@@ -1,0 +1,19 @@
+{
+  "name": "hejjajobb",
+  "version": "1.0.0",
+  "description": "hejja website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HejjaCo/hejjaJobb.git"
+  },
+  "author": "sebastian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HejjaCo/hejjaJobb/issues"
+  },
+  "homepage": "https://github.com/HejjaCo/hejjaJobb#readme"
+}
